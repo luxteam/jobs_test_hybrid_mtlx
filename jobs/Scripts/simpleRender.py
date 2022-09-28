@@ -8,12 +8,9 @@ from datetime import datetime
 from shutil import copyfile, move
 import sys
 from utils import is_case_skipped
-from queue import Queue
 from subprocess import PIPE, Popen
-from threading import Thread
 import traceback
-import time
-import copy
+from time import time
 
 sys.path.append(os.path.abspath(os.path.join(
     os.path.dirname(__file__), os.path.pardir, os.path.pardir)))
@@ -146,27 +143,20 @@ def save_results(args, case, test_case_status, render_time = 0.0):
         test_case_report["number_of_tries"] += 1
         test_case_report["group_timeout_exceeded"] = False
 
-        image_output_path = os.path.join(os.path.split(args.too)[0], "img_00000.png")
+        image_output_path = os.path.join(os.path.split(args.tool)[0], "img_00000.png")
 
         if test_case_status == "timeout_exceeded":
             test_case_report["testcase_timeout_exceeded"] = True
-        elif test_case_status == "error":
+        elif test_case_status != "error":
             if os.path.exists(image_output_path):
                 test_case_report["file_name"] = f"{case['case']}.png"
                 test_case_report["render_color_path"] = os.path.join("Color", test_case_report["file_name"])
-                move(image_output_path, test_case_report["render_color_path"])
+                move(image_output_path, os.path.join(args.output, test_case_report["render_color_path"]))
             else:
                 test_case_report["message"] = ["Output image not found"]
 
     with open(os.path.join(args.output, case["case"] + CASE_REPORT_SUFFIX), "w") as file:
         json.dump([test_case_report], file, indent=4)
-
-
-def read_output(pipe, functions):
-    for line in iter(pipe.readline, b''):
-        for function in functions:
-            function(line.decode('utf-8'))
-    pipe.close()
 
 
 def execute_tests(args, current_conf):
@@ -175,13 +165,15 @@ def execute_tests(args, current_conf):
     with open(os.path.join(os.path.abspath(args.output), "test_cases.json"), "r") as json_file:
         cases = json.load(json_file)
 
-    for case in [x for x in cases if not utils.is_case_skipped(x, current_conf)]:
+    for case in [x for x in cases if not is_case_skipped(x, current_conf)]:
         try:
             tool_absolute_path = os.path.abspath(args.tool)
             tool_path, tool_name = os.path.split(tool_absolute_path)
 
+            material_path = os.path.join('materials', f"{case['material_name']}.mtlx")
+
             if platform.system() == "Windows":
-                execution_script = f"cd {tool_path} && {tool_name} {os.path.join(args.res_path, case['material_name'])}"
+                execution_script = f"cd {tool_path} && {tool_name} {material_path}"
 
                 script_name = f"{case['case']}.bat"
                 execution_script_path = os.path.join(args.output, script_name)
@@ -189,7 +181,7 @@ def execute_tests(args, current_conf):
                     f.write(execution_script)
             else:
                 # Linux system
-                execution_script = f"cd {tool_path}; {tool_name} {os.path.join(args.res_path, case['material_name'])}"
+                execution_script = f"cd {tool_path}; {tool_name} {material_path}"
 
                 script_name = f"{case['case']}.sh"
                 execution_script_path = os.path.join(args.output, script_name)
@@ -198,26 +190,17 @@ def execute_tests(args, current_conf):
 
                 os.system(f"chmod +x {execution_script_path}")
 
-            process = psutil.Popen(execution_script_path, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            copyfile(os.path.join(args.res_path, f"{case['material_name']}.mtlx"), os.path.join(tool_path, material_path))
 
-            outs = []
-            errs = []
-            queue = Queue()
+            process = psutil.Popen(execution_script_path, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
-            stdout_thread = Thread(target=read_output, args=(process.stdout, [queue.put, outs.append]))
-            stderr_thread = Thread(target=read_output, args=(process.stderr, [queue.put, errs.append]))
-
-            start_time = time.time()
-
-            for thread in (stdout_thread, stderr_thread):
-                thread.daemon = True
-                thread.start()
+            start_time = time()
 
             process.communicate(timeout=args.timeout)
 
-            save_results(args, case, "passed", render_time=time() - case_start_time)
+            save_results(args, case, "passed", render_time=time() - start_time)
         except Exception as e:
-            for child in reversed(p.children(recursive=True)):
+            for child in reversed(process.children(recursive=True)):
                 child.terminate()
             process.terminate()
 
@@ -226,18 +209,19 @@ def execute_tests(args, current_conf):
             else:
                 save_results(args, case, "error")
 
-            utils.case_logger.error(f"Failed to execute test case (try #{current_try}): {str(e)}")
-            utils.case_logger.error(f"Traceback: {traceback.format_exc()}")
+            main_logger.error(f"Failed to execute test case (try #{current_try}): {str(e)}")
+            main_logger.error(f"Traceback: {traceback.format_exc()}")
             rc = -1
         finally:
+            stdout, stderr = process.communicate(timeout=args.timeout)
+
             log_path = os.path.join(args.output, "render_tool_logs", f"{case['case']}.log")
 
-            outs = " ".join(outs)
-            errs = " ".join(errs)
+            with open(log_path, "wb") as file:
+                file.write(stdout)
+                file.write(stderr)
 
-            with open(log_path, "w", encoding="utf-8") as file:
-                file.write(outs)
-                file.write(errs)
+            os.remove(os.path.join(tool_path, material_path))
 
     return rc
 
@@ -263,6 +247,8 @@ if __name__ == '__main__':
     args = createArgsParser().parse_args()
 
     try:
+        if not os.path.exists(os.path.join(args.output, "Color")):
+            os.makedirs(os.path.join(args.output, "Color"))
         if not os.path.exists(os.path.join(args.output, "render_tool_logs")):
             os.makedirs(os.path.join(args.output, "render_tool_logs"))
 

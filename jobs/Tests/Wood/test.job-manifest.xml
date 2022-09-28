@@ -7,7 +7,7 @@
         <argument>--tool "{Tool}"</argument>
         <argument>--output "{OutputDir}"</argument>
         <argument>--test_group Wood</argument>
-        <argument>--res_path "{ScenesDir}"</argument>
+        <argument>--res_path "{ResPath}"/Wood</argument>
         <argument>--test_cases "{TestCases}"</argument>
         <argument>--update_refs "{UpdateRefs}"</argument>
     </execute>

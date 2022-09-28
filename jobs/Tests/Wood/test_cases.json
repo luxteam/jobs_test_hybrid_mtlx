@@ -5,5 +5,33 @@
         "script_info": [
         ],
         "material_name": "TH_Old_Planks"
+    },
+    {
+        "case": "HYB_MTLX_002",
+        "status": "active",
+        "script_info": [
+        ],
+        "material_name": "Mahogany_Varnished"
+    },
+    {
+        "case": "HYB_MTLX_003",
+        "status": "active",
+        "script_info": [
+        ],
+        "material_name": "TH_Beam_Wall"
+    },
+    {
+        "case": "HYB_MTLX_004",
+        "status": "active",
+        "script_info": [
+        ],
+        "material_name": "TH_Blue_Painted_Planks"
+    },
+    {
+        "case": "HYB_MTLX_005",
+        "status": "active",
+        "script_info": [
+        ],
+        "material_name": "TH_Dark_Planks"
     }
 ]

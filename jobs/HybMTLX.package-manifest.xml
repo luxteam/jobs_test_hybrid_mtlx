@@ -3,7 +3,7 @@
 
     <variable name="Root" value="{CWD}"/>
     <variable name="ResourcesDir" value = "{CWD}/Scripts"/>
-    <variable name="ScenesDir" value="{ResPath}"/>
+    <variable name="ResPath" value="{ResPath}"/>
     <variable name="CommonDir" value="{CWD}/../jobs_launcher/common"/>
     <variable name="BaselineDir" value="{CWD}/../Work/Baseline"/>
 
