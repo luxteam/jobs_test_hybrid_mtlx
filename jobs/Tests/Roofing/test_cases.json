@@ -1,0 +1,98 @@
+[
+    {
+        "case": "MTLX_ROOFING_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Ceramic Roof\""
+        ],
+        "material_name": "TH_Ceramic_Roof"
+    },
+    {
+        "case": "MTLX_ROOFING_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Gray Ceramic Roof\""
+        ],
+        "material_name": "TH_Gray_Ceramic_Roof"
+    },
+    {
+        "case": "MTLX_ROOFING_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Grey Roof Tiles\""
+        ],
+        "material_name": "TH_Grey_Roof_Tiles"
+    },
+    {
+        "case": "MTLX_ROOFING_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Moss Gray Roof Tiles\""
+        ],
+        "material_name": "TH_Moss_Gray_Roof_Tiles"
+    },
+    {
+        "case": "MTLX_ROOFING_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Slate Roof Tiles\""
+        ],
+        "material_name": "TH_Slate_Roof_Tiles"
+    },
+    {
+        "case": "MTLX_ROOFING_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Reed Roof\""
+        ],
+        "material_name": "TH_Reed_Roof"
+    },
+    {
+        "case": "MTLX_ROOFING_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Riet Roof\""
+        ],
+        "material_name": "TH_Riet_Roof"
+    },
+    {
+        "case": "MTLX_ROOFING_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Roof 3\""
+        ],
+        "material_name": "TH_Roof_3"
+    },
+    {
+        "case": "MTLX_ROOFING_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Roof Tiles\""
+        ],
+        "material_name": "TH_Old_Roof_Tiles"
+    },
+    {
+        "case": "MTLX_ROOFING_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Wooden Roof\""
+        ],
+        "material_name": "TH_Old_Wooden_Roof"
+    },
+    {
+        "case": "MTLX_ROOFING_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Roof Slates\""
+        ],
+        "material_name": "TH_Roof_Slates"
+    },
+    {
+        "case": "MTLX_ROOFING_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Ceramic Roof Tiles\""
+        ],
+        "material_name": "TH_Ceramic_Roof_Tiles"
+    }
+]

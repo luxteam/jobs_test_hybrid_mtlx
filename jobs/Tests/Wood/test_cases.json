@@ -1,37 +1,194 @@
 [
     {
-        "case": "HYB_MTLX_001",
+        "case": "MTLX_WOOD_001",
         "status": "active",
         "script_info": [
-        ],
-        "material_name": "TH_Old_Planks"
-    },
-    {
-        "case": "HYB_MTLX_002",
-        "status": "active",
-        "script_info": [
-        ],
-        "material_name": "Mahogany_Varnished"
-    },
-    {
-        "case": "HYB_MTLX_003",
-        "status": "active",
-        "script_info": [
+            "Test material \"TH: Beam Wall\""
         ],
         "material_name": "TH_Beam_Wall"
     },
     {
-        "case": "HYB_MTLX_004",
+        "case": "MTLX_WOOD_002",
         "status": "active",
         "script_info": [
+            "Test material \"TH: Blue Painted Planks\""
         ],
         "material_name": "TH_Blue_Painted_Planks"
     },
     {
-        "case": "HYB_MTLX_005",
+        "case": "MTLX_WOOD_003",
         "status": "active",
         "script_info": [
+            "Test material \"TH: Gray Planks\""
+        ],
+        "material_name": "TH_Gray_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: New Brown Boards\""
+        ],
+        "material_name": "TH_New_Brown_Boards"
+    },
+    {
+        "case": "MTLX_WOOD_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Light Planks\""
+        ],
+        "material_name": "TH_Light_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Gray Old Boards\""
+        ],
+        "material_name": "TH_Gray_Old_Boards"
+    },
+    {
+        "case": "MTLX_WOOD_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Brown Boards\""
+        ],
+        "material_name": "TH_Old_Brown_Boards"
+    },
+    {
+        "case": "MTLX_WOOD_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Dry Brown Planks\""
+        ],
+        "material_name": "TH_Dry_Brown_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Dark Planks\""
         ],
         "material_name": "TH_Dark_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Fine Grained Wood\""
+        ],
+        "material_name": "TH_Fine_Grained_Wood"
+    },
+    {
+        "case": "MTLX_WOOD_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Green Rough Planks\""
+        ],
+        "material_name": "TH_Green_Rough_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Kitchen Wood\""
+        ],
+        "material_name": "TH_Kitchen_Wood"
+    },
+    {
+        "case": "MTLX_WOOD_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Medieval Wood\""
+        ],
+        "material_name": "TH_Medieval_Wood"
+    },
+    {
+        "case": "MTLX_WOOD_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Moss Wood\""
+        ],
+        "material_name": "TH_Moss_Wood"
+    },
+    {
+        "case": "MTLX_WOOD_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Planks\""
+        ],
+        "material_name": "TH_Old_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Planks Llight Brown\""
+        ],
+        "material_name": "TH_Planks_Llight_Brown"
+    },
+    {
+        "case": "MTLX_WOOD_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Plywood\""
+        ],
+        "material_name": "TH_Plywood"
+    },
+    {
+        "case": "MTLX_WOOD_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rough Wood\""
+        ],
+        "material_name": "TH_Rough_Wood"
+    },
+    {
+        "case": "MTLX_WOOD_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Wood Planks Dirt\""
+        ],
+        "material_name": "TH_Wood_Planks_Dirt"
+    },
+    {
+        "case": "MTLX_WOOD_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Wood Table\""
+        ],
+        "material_name": "TH_Wood_Table"
+    },
+    {
+        "case": "MTLX_WOOD_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Wooden Rough Planks\""
+        ],
+        "material_name": "TH_Wooden_Rough_Planks"
+    },
+    {
+        "case": "MTLX_WOOD_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Wood Beech Coated\""
+        ],
+        "material_name": "Wood_Beech_Coated"
+    },
+    {
+        "case": "MTLX_WOOD_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"Wood Beech Raw\""
+        ],
+        "material_name": "Wood_Beech_Raw"
+    },
+    {
+        "case": "MTLX_WOOD_024",
+        "status": "active",
+        "script_info": [
+            "Test material \"Mahogany Varnished\""
+        ],
+        "material_name": "Mahogany_Varnished"
     }
 ]

@@ -1,0 +1,18 @@
+[
+    {
+        "case": "MTLX_PLASTIC_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Carbon biColor Coat\""
+        ],
+        "material_name": "Carbon_biColor_Coat"
+    },
+    {
+        "case": "MTLX_PLASTIC_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Patterned Resin Floor\""
+        ],
+        "material_name": "Patterned_Resin_Floor"
+    }
+]

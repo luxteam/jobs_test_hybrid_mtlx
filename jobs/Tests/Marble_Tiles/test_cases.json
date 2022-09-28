@@ -1,0 +1,202 @@
+[
+    {
+        "case": "MTLX_MARBLE_TILES_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Blue Portuguese Ceramic Tile\""
+        ],
+        "material_name": "Blue_Portuguese_Ceramic_Tile"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Brown Portuguese Ceramic Tile\""
+        ],
+        "material_name": "Brown_Portuguese_Ceramic_Tile"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Blue Mosaic Tiles with Gold\""
+        ],
+        "material_name": "Blue_Mosaic_Tiles_with_Gold"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Porcelain Vitrified Tiles\""
+        ],
+        "material_name": "Porcelain_Vitrified_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bardiglio Gray Marble Tiles\""
+        ],
+        "material_name": "Bardiglio_Gray_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Arabescato Blue Marble Tiles\""
+        ],
+        "material_name": "Arabescato_Blue_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"Verde Guatemala Slatted Marble\""
+        ],
+        "material_name": "Verde_Guatemala_Slatted_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"Weave Pattern Marble Tiles\""
+        ],
+        "material_name": "Weave_Pattern_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"Pinwheel Pattern Marble Tiles\""
+        ],
+        "material_name": "Pinwheel_Pattern_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bianco Statuario Marble Tiles\""
+        ],
+        "material_name": "Bianco_Statuario_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Imperial Jade Marble Tiles\""
+        ],
+        "material_name": "Imperial_Jade_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Dark-Green Marble Rhombus Tile\""
+        ],
+        "material_name": "Dark-Green_Marble_Rhombus_Tile"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iberian Calcite Marble Tiles\""
+        ],
+        "material_name": "Iberian_Calcite_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Circle Marble Pattern\""
+        ],
+        "material_name": "Circle_Marble_Pattern"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Mosaic Marble Pattern\""
+        ],
+        "material_name": "Mosaic_Marble_Pattern"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Tiles\""
+        ],
+        "material_name": "Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"Classical Marble Pattern\""
+        ],
+        "material_name": "Classical_Marble_Pattern"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Green Pattern\""
+        ],
+        "material_name": "Marble_Green_Pattern"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"Tiles Black Long Variative\""
+        ],
+        "material_name": "Tiles_Black_Long_Variative"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Marble Floor Tiles\""
+        ],
+        "material_name": "TH_Marble_Floor_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bardiglio Marble\""
+        ],
+        "material_name": "Bardiglio_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Picasso Black Marble\""
+        ],
+        "material_name": "Picasso_Black_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Beige  Marble Tiles\""
+        ],
+        "material_name": "TH_Beige_Marble_Tiles"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_024",
+        "status": "active",
+        "script_info": [
+            "Test material \"Guatemala Blue Marble\""
+        ],
+        "material_name": "Guatemala_Blue_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_TILES_025",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cremo Marble\""
+        ],
+        "material_name": "Cremo_Marble"
+    }
+]

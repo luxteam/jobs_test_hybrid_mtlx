@@ -1,0 +1,98 @@
+[
+    {
+        "case": "MTLX_FABRICS_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Black Upholstery\""
+        ],
+        "material_name": "Black_Upholstery"
+    },
+    {
+        "case": "MTLX_FABRICS_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Book Pattern\""
+        ],
+        "material_name": "TH_Book_Pattern"
+    },
+    {
+        "case": "MTLX_FABRICS_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Brown Leather\""
+        ],
+        "material_name": "TH_Brown_Leather"
+    },
+    {
+        "case": "MTLX_FABRICS_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Blue Denim Fabric\""
+        ],
+        "material_name": "TH_Blue_Denim_Fabric"
+    },
+    {
+        "case": "MTLX_FABRICS_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Denim Fabric\""
+        ],
+        "material_name": "TH_Denim_Fabric"
+    },
+    {
+        "case": "MTLX_FABRICS_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Brown Fabric Leather\""
+        ],
+        "material_name": "TH_Brown_Fabric_Leather"
+    },
+    {
+        "case": "MTLX_FABRICS_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Fabric Leather\""
+        ],
+        "material_name": "TH_Fabric_Leather"
+    },
+    {
+        "case": "MTLX_FABRICS_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Tablecloth Fabric Pattern\""
+        ],
+        "material_name": "TH_Tablecloth_Fabric_Pattern"
+    },
+    {
+        "case": "MTLX_FABRICS_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Fabric Pattern\""
+        ],
+        "material_name": "TH_Red_Fabric_Pattern"
+    },
+    {
+        "case": "MTLX_FABRICS_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Large Leather\""
+        ],
+        "material_name": "TH_Red_Large_Leather"
+    },
+    {
+        "case": "MTLX_FABRICS_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Leather\""
+        ],
+        "material_name": "TH_Red_Leather"
+    },
+    {
+        "case": "MTLX_FABRICS_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Leather White\""
+        ],
+        "material_name": "TH_Leather_White"
+    }
+]

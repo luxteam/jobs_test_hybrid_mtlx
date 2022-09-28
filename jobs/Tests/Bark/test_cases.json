@@ -1,0 +1,66 @@
+[
+    {
+        "case": "MTLX_BARK_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bark Base\""
+        ],
+        "material_name": "Bark_Base"
+    },
+    {
+        "case": "MTLX_BARK_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bark Beech\""
+        ],
+        "material_name": "Bark_Beech"
+    },
+    {
+        "case": "MTLX_BARK_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bark Oak\""
+        ],
+        "material_name": "Bark_Oak"
+    },
+    {
+        "case": "MTLX_BARK_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bark Pine\""
+        ],
+        "material_name": "Bark_Pine"
+    },
+    {
+        "case": "MTLX_BARK_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bark Smooth\""
+        ],
+        "material_name": "Bark_Smooth"
+    },
+    {
+        "case": "MTLX_BARK_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Bark Brown\""
+        ],
+        "material_name": "TH_Bark_Brown"
+    },
+    {
+        "case": "MTLX_BARK_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Bark Brown\""
+        ],
+        "material_name": "TH_Old_Bark_Brown"
+    },
+    {
+        "case": "MTLX_BARK_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Tree Bark\""
+        ],
+        "material_name": "TH_Tree_Bark"
+    }
+]

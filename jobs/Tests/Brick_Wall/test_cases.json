@@ -1,0 +1,226 @@
+[
+    {
+        "case": "MTLX_BRICK_WALL_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Crumbling Sandstone Bricks\""
+        ],
+        "material_name": "TH_Crumbling_Sandstone_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Brick Irregular\""
+        ],
+        "material_name": "Brick_Irregular"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bricks Basic\""
+        ],
+        "material_name": "Bricks_Basic"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bricks\""
+        ],
+        "material_name": "Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Burnt Brick Wall\""
+        ],
+        "material_name": "TH_Burnt_Brick_Wall"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Brick Wall\""
+        ],
+        "material_name": "TH_Brick_Wall"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Light Brown Brick\""
+        ],
+        "material_name": "TH_Light_Brown_Brick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Castle Brick\""
+        ],
+        "material_name": "TH_Old_Castle_Brick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Castle Brown Bricks\""
+        ],
+        "material_name": "TH_Castle_Brown_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Castle White Bricks\""
+        ],
+        "material_name": "TH_Castle_White_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Castle Bricks\""
+        ],
+        "material_name": "TH_Castle_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Castle Brick Broken\""
+        ],
+        "material_name": "TH_Castle_Brick_Broken"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Church Red Bricks\""
+        ],
+        "material_name": "TH_Church_Red_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Church Bricks\""
+        ],
+        "material_name": "TH_Church_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Factory Bricks\""
+        ],
+        "material_name": "TH_Factory_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Large Red Bricks\""
+        ],
+        "material_name": "TH_Large_Red_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Plaster Brick\""
+        ],
+        "material_name": "TH_Plaster_Brick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Wall Bricks Plaster\""
+        ],
+        "material_name": "TH_Wall_Bricks_Plaster"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"Red Brick Wall Weathered\""
+        ],
+        "material_name": "Red_Brick_Wall_Weathered"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Random Bricks Thick\""
+        ],
+        "material_name": "TH_Random_Bricks_Thick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Brick\""
+        ],
+        "material_name": "TH_Red_Brick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Brick Plastered\""
+        ],
+        "material_name": "TH_Red_Brick_Plastered"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Red Bricks\""
+        ],
+        "material_name": "TH_Red_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_024",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old White Bricks\""
+        ],
+        "material_name": "TH_Old_White_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_025",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: White Bricks\""
+        ],
+        "material_name": "TH_White_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_026",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: White Sandstone Bricks\""
+        ],
+        "material_name": "TH_White_Sandstone_Bricks"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_027",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Joint Yellow Brick\""
+        ],
+        "material_name": "TH_Joint_Yellow_Brick"
+    },
+    {
+        "case": "MTLX_BRICK_WALL_028",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Yellow Bricks\""
+        ],
+        "material_name": "TH_Yellow_Bricks"
+    }
+]

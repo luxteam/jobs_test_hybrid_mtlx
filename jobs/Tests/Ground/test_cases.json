@@ -1,0 +1,146 @@
+[
+    {
+        "case": "MTLX_GROUND_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Various Rocks Ground\""
+        ],
+        "material_name": "TH_Various_Rocks_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Ground Leaves Cover\""
+        ],
+        "material_name": "Ground_Leaves_Cover"
+    },
+    {
+        "case": "MTLX_GROUND_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Moss Ground\""
+        ],
+        "material_name": "Moss_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Rocky Ground\""
+        ],
+        "material_name": "Rocky_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Ground River Bottom\""
+        ],
+        "material_name": "Ground_River_Bottom"
+    },
+    {
+        "case": "MTLX_GROUND_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Ground Soil\""
+        ],
+        "material_name": "Ground_Soil"
+    },
+    {
+        "case": "MTLX_GROUND_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Moss Mountain Ground\""
+        ],
+        "material_name": "TH_Moss_Mountain_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Coral Gravel\""
+        ],
+        "material_name": "TH_Coral_Gravel"
+    },
+    {
+        "case": "MTLX_GROUND_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Coral Rocky Ground\""
+        ],
+        "material_name": "TH_Coral_Rocky_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rocks Dirt Ground\""
+        ],
+        "material_name": "TH_Rocks_Dirt_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Light Rocks Ground\""
+        ],
+        "material_name": "TH_Light_Rocks_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rocks Ground\""
+        ],
+        "material_name": "TH_Rocks_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Mountain Rocks Ground\""
+        ],
+        "material_name": "TH_Mountain_Rocks_Ground"
+    },
+    {
+        "case": "MTLX_GROUND_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Pebbles Sand\""
+        ],
+        "material_name": "Pebbles_Sand"
+    },
+    {
+        "case": "MTLX_GROUND_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Smooth Beach Sand\""
+        ],
+        "material_name": "Smooth_Beach_Sand"
+    },
+    {
+        "case": "MTLX_GROUND_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Shells Pebble Sand\""
+        ],
+        "material_name": "Shells_Pebble_Sand"
+    },
+    {
+        "case": "MTLX_GROUND_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"Shells Beach Sand\""
+        ],
+        "material_name": "Shells_Beach_Sand"
+    },
+    {
+        "case": "MTLX_GROUND_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"Starfish Beach Sand\""
+        ],
+        "material_name": "Starfish_Beach_Sand"
+    }
+]

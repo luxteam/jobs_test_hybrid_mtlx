@@ -1,0 +1,130 @@
+[
+    {
+        "case": "MTLX_COBBLESTONE_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Cobblestone\""
+        ],
+        "material_name": "TH_Old_Cobblestone"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Light Cobblestone Floor\""
+        ],
+        "material_name": "TH_Light_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Medieval Cobblestone\""
+        ],
+        "material_name": "TH_Medieval_Cobblestone"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Cobblestone Color\""
+        ],
+        "material_name": "TH_Cobblestone_Color"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Medieval Cobblestone\""
+        ],
+        "material_name": "TH_Old_Medieval_Cobblestone"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Dark Cobblestone Floor\""
+        ],
+        "material_name": "TH_Dark_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Gray Cobblestone Floor\""
+        ],
+        "material_name": "TH_Gray_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Moss Cobblestone Floor\""
+        ],
+        "material_name": "TH_Moss_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Cobblestone Floor\""
+        ],
+        "material_name": "TH_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Broken Cobblestone Floor\""
+        ],
+        "material_name": "TH_Broken_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Pink Cobblestone Floor\""
+        ],
+        "material_name": "TH_Pink_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Yellow Cobblestone Floor\""
+        ],
+        "material_name": "TH_Yellow_Cobblestone_Floor"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Cobblestone Large\""
+        ],
+        "material_name": "TH_Cobblestone_Large"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Cobblestone Square\""
+        ],
+        "material_name": "TH_Cobblestone_Square"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Floor Pattern\""
+        ],
+        "material_name": "TH_Old_Floor_Pattern"
+    },
+    {
+        "case": "MTLX_COBBLESTONE_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Floor Pattern\""
+        ],
+        "material_name": "TH_Floor_Pattern"
+    }
+]

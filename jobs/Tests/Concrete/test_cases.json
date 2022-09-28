@@ -1,0 +1,186 @@
+[
+    {
+        "case": "MTLX_CONCRETE_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Bricks Concrete Wall\""
+        ],
+        "material_name": "TH_Bricks_Concrete_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Concrete Plain\""
+        ],
+        "material_name": "Concrete_Plain"
+    },
+    {
+        "case": "MTLX_CONCRETE_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Concrete Planks\""
+        ],
+        "material_name": "Concrete_Planks"
+    },
+    {
+        "case": "MTLX_CONCRETE_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Concrete Tiles\""
+        ],
+        "material_name": "Concrete_Tiles"
+    },
+    {
+        "case": "MTLX_CONCRETE_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Dirty Concrete\""
+        ],
+        "material_name": "TH_Dirty_Concrete"
+    },
+    {
+        "case": "MTLX_CONCRETE_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rubble Concrete Floor\""
+        ],
+        "material_name": "TH_Rubble_Concrete_Floor"
+    },
+    {
+        "case": "MTLX_CONCRETE_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Concrete Floor\""
+        ],
+        "material_name": "TH_Concrete_Floor"
+    },
+    {
+        "case": "MTLX_CONCRETE_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Concrete Old Floor\""
+        ],
+        "material_name": "TH_Concrete_Old_Floor"
+    },
+    {
+        "case": "MTLX_CONCRETE_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Concrete Wall\""
+        ],
+        "material_name": "TH_Concrete_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"Smooth Concrete\""
+        ],
+        "material_name": "Smooth_Concrete"
+    },
+    {
+        "case": "MTLX_CONCRETE_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gray Ramshorn Shells Wall\""
+        ],
+        "material_name": "Gray_Ramshorn_Shells_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Ramshorn Shells Wall\""
+        ],
+        "material_name": "Ramshorn_Shells_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Detailed Ramshorn Shells Wall\""
+        ],
+        "material_name": "Detailed_Ramshorn_Shells_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"White Stone Wall\""
+        ],
+        "material_name": "White_Stone_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Red Stone Wall\""
+        ],
+        "material_name": "Red_Stone_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Stone Wall Combination\""
+        ],
+        "material_name": "Stone_Wall_Combination"
+    },
+    {
+        "case": "MTLX_CONCRETE_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"Stone Wall\""
+        ],
+        "material_name": "Stone_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"Wall of Shells\""
+        ],
+        "material_name": "Wall_of_Shells"
+    },
+    {
+        "case": "MTLX_CONCRETE_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cement Wall with Starfish\""
+        ],
+        "material_name": "Cement_Wall_with_Starfish"
+    },
+    {
+        "case": "MTLX_CONCRETE_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gray Cement Shells Wall\""
+        ],
+        "material_name": "Gray_Cement_Shells_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cement Wall with Shells\""
+        ],
+        "material_name": "Cement_Wall_with_Shells"
+    },
+    {
+        "case": "MTLX_CONCRETE_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cement Shells Wall\""
+        ],
+        "material_name": "Cement_Shells_Wall"
+    },
+    {
+        "case": "MTLX_CONCRETE_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Concrete Floor Worn\""
+        ],
+        "material_name": "TH_Concrete_Floor_Worn"
+    }
+]

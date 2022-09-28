@@ -1,0 +1,34 @@
+[
+    {
+        "case": "MTLX_SCIFI_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminium Hexagon\""
+        ],
+        "material_name": "Aluminium_Hexagon"
+    },
+    {
+        "case": "MTLX_SCIFI_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Chains\""
+        ],
+        "material_name": "Chains"
+    },
+    {
+        "case": "MTLX_SCIFI_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Perforated Metal\""
+        ],
+        "material_name": "Perforated_Metal"
+    },
+    {
+        "case": "MTLX_SCIFI_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"SciFi Brick\""
+        ],
+        "material_name": "SciFi_Brick"
+    }
+]

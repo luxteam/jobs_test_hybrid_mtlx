@@ -5,7 +5,7 @@ import psutil
 import json
 import platform
 from datetime import datetime
-from shutil import copyfile, move
+from shutil import copyfile, copytree, move, rmtree
 import sys
 from utils import is_case_skipped
 from subprocess import PIPE, Popen
@@ -165,12 +165,17 @@ def execute_tests(args, current_conf):
     with open(os.path.join(os.path.abspath(args.output), "test_cases.json"), "r") as json_file:
         cases = json.load(json_file)
 
+    process = None
+    material_files = None
+
     for case in [x for x in cases if not is_case_skipped(x, current_conf)]:
         try:
             tool_absolute_path = os.path.abspath(args.tool)
             tool_path, tool_name = os.path.split(tool_absolute_path)
 
-            material_path = os.path.join('materials', f"{case['material_name']}.mtlx")
+            material_files = os.listdir(os.path.join(args.res_path, case["material_name"]))
+
+            material_path = os.path.join(args.res_path, case["material_name"], "material.mtlx")
 
             if platform.system() == "Windows":
                 execution_script = f"cd {tool_path} && {tool_name} {material_path}"
@@ -190,7 +195,20 @@ def execute_tests(args, current_conf):
 
                 os.system(f"chmod +x {execution_script_path}")
 
-            copyfile(os.path.join(args.res_path, f"{case['material_name']}.mtlx"), os.path.join(tool_path, material_path))
+            for material_file in material_files:
+                src_path = os.path.join(args.res_path, case["material_name"], material_file)
+                dest_path = os.path.join(tool_path, "materials", material_file)
+
+                if os.path.isdir(src_path):
+                    if os.path.exists(dest_path):
+                        rmtree(dest_path)
+
+                    copytree(src_path, dest_path)
+                else:
+                    if os.path.exists(dest_path):
+                        os.remove(dest_path)
+
+                    copyfile(src_path, dest_path)
 
             process = psutil.Popen(execution_script_path, shell=False, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
@@ -221,7 +239,8 @@ def execute_tests(args, current_conf):
                 file.write(stdout)
                 file.write(stderr)
 
-            os.remove(os.path.join(tool_path, material_path))
+            for material_file in material_files:
+                target_path = os.path.join(tool_path, "materials", material_file)
 
     return rc
 

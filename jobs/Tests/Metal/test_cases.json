@@ -1,0 +1,186 @@
+[
+    {
+        "case": "MTLX_METAL_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gold\""
+        ],
+        "material_name": "Gold"
+    },
+    {
+        "case": "MTLX_METAL_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminium\""
+        ],
+        "material_name": "Aluminium"
+    },
+    {
+        "case": "MTLX_METAL_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminum Brushed\""
+        ],
+        "material_name": "Aluminum_Brushed"
+    },
+    {
+        "case": "MTLX_METAL_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminum Corrugated\""
+        ],
+        "material_name": "Aluminum_Corrugated"
+    },
+    {
+        "case": "MTLX_METAL_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminum Matte\""
+        ],
+        "material_name": "Aluminum_Matte"
+    },
+    {
+        "case": "MTLX_METAL_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Brass Brushed\""
+        ],
+        "material_name": "Brass_Brushed"
+    },
+    {
+        "case": "MTLX_METAL_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"Brass Satin\""
+        ],
+        "material_name": "Brass_Satin"
+    },
+    {
+        "case": "MTLX_METAL_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"Chrome\""
+        ],
+        "material_name": "Chrome"
+    },
+    {
+        "case": "MTLX_METAL_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"Copper Brushed\""
+        ],
+        "material_name": "Copper_Brushed"
+    },
+    {
+        "case": "MTLX_METAL_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"Copper Old\""
+        ],
+        "material_name": "Copper_Old"
+    },
+    {
+        "case": "MTLX_METAL_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Galvanized Metal\""
+        ],
+        "material_name": "Galvanized_Metal"
+    },
+    {
+        "case": "MTLX_METAL_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gun Metal\""
+        ],
+        "material_name": "Gun_Metal"
+    },
+    {
+        "case": "MTLX_METAL_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cast Iron Damaged\""
+        ],
+        "material_name": "Cast_Iron_Damaged"
+    },
+    {
+        "case": "MTLX_METAL_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bronze Oxydized\""
+        ],
+        "material_name": "Bronze_Oxydized"
+    },
+    {
+        "case": "MTLX_METAL_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iron Hammered\""
+        ],
+        "material_name": "Iron_Hammered"
+    },
+    {
+        "case": "MTLX_METAL_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Stainless Steel Brushed\""
+        ],
+        "material_name": "Stainless_Steel_Brushed"
+    },
+    {
+        "case": "MTLX_METAL_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Factory Wall\""
+        ],
+        "material_name": "TH_Factory_Wall"
+    },
+    {
+        "case": "MTLX_METAL_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Green Metal Rust\""
+        ],
+        "material_name": "TH_Green_Metal_Rust"
+    },
+    {
+        "case": "MTLX_METAL_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Metal Plate\""
+        ],
+        "material_name": "TH_Metal_Plate"
+    },
+    {
+        "case": "MTLX_METAL_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Rusty Metallic Profile\""
+        ],
+        "material_name": "TH_Rusty_Metallic_Profile"
+    },
+    {
+        "case": "MTLX_METAL_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH Rusty Metal\""
+        ],
+        "material_name": "TH_Rusty_Metal"
+    },
+    {
+        "case": "MTLX_METAL_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gold Foil\""
+        ],
+        "material_name": "Gold_Foil"
+    },
+    {
+        "case": "MTLX_METAL_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"Copper Satin\""
+        ],
+        "material_name": "Copper_Satin"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "case": "MTLX_PLASTER_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Crumbling Rough Plaster\""
+        ],
+        "material_name": "TH_Crumbling_Rough_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Clay Floor\""
+        ],
+        "material_name": "TH_Clay_Floor"
+    },
+    {
+        "case": "MTLX_PLASTER_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Medieval Wall\""
+        ],
+        "material_name": "TH_Medieval_Wall"
+    },
+    {
+        "case": "MTLX_PLASTER_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Gray Plaster\""
+        ],
+        "material_name": "TH_Gray_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Rough Plaster\""
+        ],
+        "material_name": "TH_Old_Rough_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rough Plaster Broken\""
+        ],
+        "material_name": "TH_Rough_Plaster_Broken"
+    },
+    {
+        "case": "MTLX_PLASTER_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rough Plasterbrick\""
+        ],
+        "material_name": "TH_Rough_Plasterbrick"
+    },
+    {
+        "case": "MTLX_PLASTER_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Clean Plaster\""
+        ],
+        "material_name": "TH_Clean_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Dirt Plaster Rough\""
+        ],
+        "material_name": "TH_Dirt_Plaster_Rough"
+    },
+    {
+        "case": "MTLX_PLASTER_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Moss Plaster Rough\""
+        ],
+        "material_name": "TH_Moss_Plaster_Rough"
+    },
+    {
+        "case": "MTLX_PLASTER_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: White Rough Plaster\""
+        ],
+        "material_name": "TH_White_Rough_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Yellow Plaster\""
+        ],
+        "material_name": "TH_Old_Yellow_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Rough Plaster Brick\""
+        ],
+        "material_name": "TH_Rough_Plaster_Brick"
+    },
+    {
+        "case": "MTLX_PLASTER_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Plaster Scratched\""
+        ],
+        "material_name": "Plaster_Scratched"
+    },
+    {
+        "case": "MTLX_PLASTER_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Simple plaster\""
+        ],
+        "material_name": "Simple_plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Old Gray Plaster\""
+        ],
+        "material_name": "TH_Old_Gray_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Yellow Plaster\""
+        ],
+        "material_name": "TH_Yellow_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Dirty Gray Plaster\""
+        ],
+        "material_name": "TH_Dirty_Gray_Plaster"
+    },
+    {
+        "case": "MTLX_PLASTER_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"TH: Sandstone Cracks\""
+        ],
+        "material_name": "TH_Sandstone_Cracks"
+    }
+]

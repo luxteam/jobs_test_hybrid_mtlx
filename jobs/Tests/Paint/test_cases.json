@@ -1,0 +1,18 @@
+[
+    {
+        "case": "MTLX_PAINT_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Old Paint\""
+        ],
+        "material_name": "Old_Paint"
+    },
+    {
+        "case": "MTLX_PAINT_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Car Paint\""
+        ],
+        "material_name": "Car_Paint"
+    }
+]

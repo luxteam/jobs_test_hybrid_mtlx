@@ -1,0 +1,114 @@
+[
+    {
+        "case": "MTLX_TILE_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gold Edged Leaf Tiles\""
+        ],
+        "material_name": "Gold_Edged_Leaf_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iberian Blue Ceramic Tiles\""
+        ],
+        "material_name": "Iberian_Blue_Ceramic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iberian Beige Ceramic Tiles\""
+        ],
+        "material_name": "Iberian_Beige_Ceramic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Jade Tiles Irregular Bond\""
+        ],
+        "material_name": "Jade_Tiles_Irregular_Bond"
+    },
+    {
+        "case": "MTLX_TILE_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Wavy Colored Ceramic Tiles\""
+        ],
+        "material_name": "Wavy_Colored_Ceramic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Mosaic Vines Ceramic Tiles\""
+        ],
+        "material_name": "Mosaic_Vines_Ceramic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"Sodalite Marble and Gold Tiles\""
+        ],
+        "material_name": "Sodalite_Marble_and_Gold_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"Glazed Cube Pattern Tiles\""
+        ],
+        "material_name": "Glazed_Cube_Pattern_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"Retro-futuristic Tiles\""
+        ],
+        "material_name": "Retro-futuristic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"Glazed Cell Tiles\""
+        ],
+        "material_name": "Glazed_Cell_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gold-Black Checker tiles\""
+        ],
+        "material_name": "Gold-Black_Checker_tiles"
+    },
+    {
+        "case": "MTLX_TILE_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Glazed Mosaic Tiles\""
+        ],
+        "material_name": "Glazed_Mosaic_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Moroccan Hexagonal Tiles\""
+        ],
+        "material_name": "Moroccan_Hexagonal_Tiles"
+    },
+    {
+        "case": "MTLX_TILE_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iberian Green Tiles\""
+        ],
+        "material_name": "Iberian_Green_Tiles"
+    }
+]

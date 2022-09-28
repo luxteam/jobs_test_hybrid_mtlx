@@ -1,0 +1,178 @@
+[
+    {
+        "case": "MTLX_MARBLE_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Variable Color\""
+        ],
+        "material_name": "Marble_Variable_Color"
+    },
+    {
+        "case": "MTLX_MARBLE_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Light Gray\""
+        ],
+        "material_name": "Marble_Light_Gray"
+    },
+    {
+        "case": "MTLX_MARBLE_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Brown\""
+        ],
+        "material_name": "Marble_Brown"
+    },
+    {
+        "case": "MTLX_MARBLE_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cream Onyx\""
+        ],
+        "material_name": "Cream_Onyx"
+    },
+    {
+        "case": "MTLX_MARBLE_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Granite\""
+        ],
+        "material_name": "Granite"
+    },
+    {
+        "case": "MTLX_MARBLE_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Orange Streaks\""
+        ],
+        "material_name": "Marble_Orange_Streaks"
+    },
+    {
+        "case": "MTLX_MARBLE_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Light Red\""
+        ],
+        "material_name": "Marble_Light_Red"
+    },
+    {
+        "case": "MTLX_MARBLE_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Yellow\""
+        ],
+        "material_name": "Marble_Yellow"
+    },
+    {
+        "case": "MTLX_MARBLE_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"Marble Red\""
+        ],
+        "material_name": "Marble_Red"
+    },
+    {
+        "case": "MTLX_MARBLE_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"Simple Marble light blue\""
+        ],
+        "material_name": "Simple_Marble_light_blue"
+    },
+    {
+        "case": "MTLX_MARBLE_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Onyx Gray Streaked\""
+        ],
+        "material_name": "Onyx_Gray_Streaked"
+    },
+    {
+        "case": "MTLX_MARBLE_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Blue Emperador Marble\""
+        ],
+        "material_name": "Blue_Emperador_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Oasis Green Marble\""
+        ],
+        "material_name": "Oasis_Green_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"Oasis Blue Marble\""
+        ],
+        "material_name": "Oasis_Blue_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Rosso Verona Marble\""
+        ],
+        "material_name": "Rosso_Verona_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Arabescato Marble\""
+        ],
+        "material_name": "Arabescato_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"Travertine Marble\""
+        ],
+        "material_name": "Travertine_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"Sicilian Beige Marble\""
+        ],
+        "material_name": "Sicilian_Beige_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"Portoro Green Marble\""
+        ],
+        "material_name": "Portoro_Green_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"Milan Polished Marble\""
+        ],
+        "material_name": "Milan_Polished_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"Blue Dune Marble\""
+        ],
+        "material_name": "Blue_Dune_Marble"
+    },
+    {
+        "case": "MTLX_MARBLE_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Verde Alpi Marble\""
+        ],
+        "material_name": "Verde_Alpi_Marble"
+    }
+]
