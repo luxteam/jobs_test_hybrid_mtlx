@@ -1,6 +1,6 @@
 [
     {
-        "case": "MTLX_ROCK/STONE_001",
+        "case": "MTLX_ROCK_STONE_001",
         "status": "active",
         "script_info": [
             "Test material \"Sandstone\""
@@ -8,7 +8,7 @@
         "material_name": "Sandstone"
     },
     {
-        "case": "MTLX_ROCK/STONE_002",
+        "case": "MTLX_ROCK_STONE_002",
         "status": "active",
         "script_info": [
             "Test material \"TH: Aerial Moss Rock\""
@@ -16,7 +16,7 @@
         "material_name": "TH_Aerial_Moss_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_003",
+        "case": "MTLX_ROCK_STONE_003",
         "status": "active",
         "script_info": [
             "Test material \"TH: Aerial Mountain Rocks\""
@@ -24,7 +24,7 @@
         "material_name": "TH_Aerial_Mountain_Rocks"
     },
     {
-        "case": "MTLX_ROCK/STONE_004",
+        "case": "MTLX_ROCK_STONE_004",
         "status": "active",
         "script_info": [
             "Test material \"TH: Aerial Rocks\""
@@ -32,7 +32,7 @@
         "material_name": "TH_Aerial_Rocks"
     },
     {
-        "case": "MTLX_ROCK/STONE_005",
+        "case": "MTLX_ROCK_STONE_005",
         "status": "active",
         "script_info": [
             "Test material \"TH: Mossy Rock\""
@@ -40,7 +40,7 @@
         "material_name": "TH_Mossy_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_006",
+        "case": "MTLX_ROCK_STONE_006",
         "status": "active",
         "script_info": [
             "Test material \"TH: Smooth Stone\""
@@ -48,7 +48,7 @@
         "material_name": "TH_Smooth_Stone"
     },
     {
-        "case": "MTLX_ROCK/STONE_007",
+        "case": "MTLX_ROCK_STONE_007",
         "status": "active",
         "script_info": [
             "Test material \"TH: Ligth Rock\""
@@ -56,7 +56,7 @@
         "material_name": "TH_Ligth_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_008",
+        "case": "MTLX_ROCK_STONE_008",
         "status": "active",
         "script_info": [
             "Test material \"TH: Rock\""
@@ -64,7 +64,7 @@
         "material_name": "TH_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_009",
+        "case": "MTLX_ROCK_STONE_009",
         "status": "active",
         "script_info": [
             "Test material \"TH: Light Brown Rock\""
@@ -72,7 +72,7 @@
         "material_name": "TH_Light_Brown_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_010",
+        "case": "MTLX_ROCK_STONE_010",
         "status": "active",
         "script_info": [
             "Test material \"TH: Volcano Rock\""
@@ -80,7 +80,7 @@
         "material_name": "TH_Volcano_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_011",
+        "case": "MTLX_ROCK_STONE_011",
         "status": "active",
         "script_info": [
             "Test material \"TH: Red Rock\""
@@ -88,7 +88,7 @@
         "material_name": "TH_Red_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_012",
+        "case": "MTLX_ROCK_STONE_012",
         "status": "active",
         "script_info": [
             "Test material \"TH: Gray Rock\""
@@ -96,7 +96,7 @@
         "material_name": "TH_Gray_Rock"
     },
     {
-        "case": "MTLX_ROCK/STONE_013",
+        "case": "MTLX_ROCK_STONE_013",
         "status": "active",
         "script_info": [
             "Test material \"TH: Gray Rocks\""
@@ -104,7 +104,7 @@
         "material_name": "TH_Gray_Rocks"
     },
     {
-        "case": "MTLX_ROCK/STONE_014",
+        "case": "MTLX_ROCK_STONE_014",
         "status": "active",
         "script_info": [
             "Test material \"TH: Old Stone\""
