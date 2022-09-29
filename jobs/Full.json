@@ -1,0 +1,26 @@
+{
+    "split": true,
+    "groups": {
+        "Bark": "",
+        "Brick_Wall": "",
+        "Cobblestone": "",
+        "Concrete": "",
+        "Fabrics": "",
+        "Floor": "",
+        "Flooring": "",
+        "Ground": "",
+        "Marble": "",
+        "Marble_Tiles": "",
+        "Metal": "",
+        "Paint": "",
+        "Plaster": "",
+        "Plastic": "",
+        "Rock_Stone": "",
+        "Roofing": "",
+        "SciFi": "",
+        "Tile": "",
+        "Wall": "",
+        "Wallpaper": "",
+        "Wood": ""
+    }
+}

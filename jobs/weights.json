@@ -1,0 +1,88 @@
+{
+    "weights": [
+        {
+            "suite_name": "Bark",
+            "value": 8
+        },
+        {
+            "suite_name": "Brick_Wall",
+            "value": 28
+        },
+        {
+            "suite_name": "Cobblestone",
+            "value": 16
+        },
+        {
+            "suite_name": "Concrete",
+            "value": 23
+        },
+        {
+            "suite_name": "Fabrics",
+            "value": 12
+        },
+        {
+            "suite_name": "Floor",
+            "value": 19
+        },
+        {
+            "suite_name": "Flooring",
+            "value": 27
+        },
+        {
+            "suite_name": "Ground",
+            "value": 18
+        },
+        {
+            "suite_name": "Marble",
+            "value": 22
+        },
+        {
+            "suite_name": "Marble_Tiles",
+            "value": 25
+        },
+        {
+            "suite_name": "Metal",
+            "value": 23
+        },
+        {
+            "suite_name": "Paint",
+            "value": 2
+        },
+        {
+            "suite_name": "Plaster",
+            "value": 19
+        },
+        {
+            "suite_name": "Plastic",
+            "value": 2
+        },
+        {
+            "suite_name": "Rock_Stone",
+            "value": 14
+        },
+        {
+            "suite_name": "Roofing",
+            "value": 12
+        },
+        {
+            "suite_name": "SciFi",
+            "value": 4
+        },
+        {
+            "suite_name": "Tile",
+            "value": 14
+        },
+        {
+            "suite_name": "Wall",
+            "value": 12
+        },
+        {
+            "suite_name": "Wallpaper",
+            "value": 23
+        },
+        {
+            "suite_name": "Wood",
+            "value": 24
+        }
+    ]
+}
