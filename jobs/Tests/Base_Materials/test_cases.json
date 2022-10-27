@@ -1,0 +1,234 @@
+[
+    {
+        "case": "MTLX_BASE_MATERIALS_001",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 50 percent melanin\""
+        ],
+        "material_name": "Skin_-_50_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_002",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 30 percent melanin\""
+        ],
+        "material_name": "Skin_-_30_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_003",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 20 percent melanin\""
+        ],
+        "material_name": "Skin_-_20_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_004",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 10 percent melanin\""
+        ],
+        "material_name": "Skin_-_10_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_005",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 5 percent melanin\""
+        ],
+        "material_name": "Skin_-_5_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_006",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 2 percent melanin\""
+        ],
+        "material_name": "Skin_-_2_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_007",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 1 percent melanin\""
+        ],
+        "material_name": "Skin_-_1_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_008",
+        "status": "active",
+        "script_info": [
+            "Test material \"Skin - 0.1 percent melanin\""
+        ],
+        "material_name": "Skin_-_0.1_percent_melanin"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_009",
+        "status": "active",
+        "script_info": [
+            "Test material \"Acryl Plastic\""
+        ],
+        "material_name": "Acryl_Plastic"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_010",
+        "status": "active",
+        "script_info": [
+            "Test material \"White Plastic\""
+        ],
+        "material_name": "White_Plastic"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_011",
+        "status": "active",
+        "script_info": [
+            "Test material \"Frosted Glass\""
+        ],
+        "material_name": "Frosted_Glass"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_012",
+        "status": "active",
+        "script_info": [
+            "Test material \"Dark Glass\""
+        ],
+        "material_name": "Dark_Glass"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_013",
+        "status": "active",
+        "script_info": [
+            "Test material \"Diamond\""
+        ],
+        "material_name": "Diamond"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_014",
+        "status": "active",
+        "script_info": [
+            "Test material \"White Wine\""
+        ],
+        "material_name": "White_Wine"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_015",
+        "status": "active",
+        "script_info": [
+            "Test material \"Red Wine\""
+        ],
+        "material_name": "Red_Wine"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_016",
+        "status": "active",
+        "script_info": [
+            "Test material \"Glass\""
+        ],
+        "material_name": "Glass"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_017",
+        "status": "active",
+        "script_info": [
+            "Test material \"Semitransparent Silicone\""
+        ],
+        "material_name": "Semitransparent_Silicone"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_018",
+        "status": "active",
+        "script_info": [
+            "Test material \"Rubber\""
+        ],
+        "material_name": "Rubber"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_019",
+        "status": "active",
+        "script_info": [
+            "Test material \"Rough Plastic\""
+        ],
+        "material_name": "Rough_Plastic"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_020",
+        "status": "active",
+        "script_info": [
+            "Test material \"Black Plastic\""
+        ],
+        "material_name": "Black_Plastic"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_021",
+        "status": "active",
+        "script_info": [
+            "Test material \"Nickel\""
+        ],
+        "material_name": "Nickel"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_022",
+        "status": "active",
+        "script_info": [
+            "Test material \"Iron\""
+        ],
+        "material_name": "Iron"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_023",
+        "status": "active",
+        "script_info": [
+            "Test material \"Gold\""
+        ],
+        "material_name": "Gold"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_024",
+        "status": "active",
+        "script_info": [
+            "Test material \"Copper\""
+        ],
+        "material_name": "Copper"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_025",
+        "status": "active",
+        "script_info": [
+            "Test material \"Cobalt\""
+        ],
+        "material_name": "Cobalt"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_026",
+        "status": "active",
+        "script_info": [
+            "Test material \"Chrome\""
+        ],
+        "material_name": "Chrome"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_027",
+        "status": "active",
+        "script_info": [
+            "Test material \"Bronze\""
+        ],
+        "material_name": "Bronze"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_028",
+        "status": "active",
+        "script_info": [
+            "Test material \"Brass\""
+        ],
+        "material_name": "Brass"
+    },
+    {
+        "case": "MTLX_BASE_MATERIALS_029",
+        "status": "active",
+        "script_info": [
+            "Test material \"Aluminum\""
+        ],
+        "material_name": "Aluminum"
+    }
+]
