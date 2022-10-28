@@ -5,6 +5,10 @@
             "value": 8
         },
         {
+            "suite_name": "Base_Materials",
+            "value": 29
+        },
+        {
             "suite_name": "Brick_Wall",
             "value": 28
         },
@@ -18,7 +22,7 @@
         },
         {
             "suite_name": "Fabrics",
-            "value": 12
+            "value": 26
         },
         {
             "suite_name": "Floor",
@@ -26,7 +30,7 @@
         },
         {
             "suite_name": "Flooring",
-            "value": 27
+            "value": 53
         },
         {
             "suite_name": "Ground",

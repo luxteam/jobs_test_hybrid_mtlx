@@ -218,9 +218,12 @@ def execute_tests(args, current_conf):
 
             save_results(args, case, "passed", render_time=time() - start_time)
         except Exception as e:
-            for child in reversed(process.children(recursive=True)):
-                child.terminate()
-            process.terminate()
+            try:
+                for child in reversed(process.children(recursive=True)):
+                    child.terminate()
+                process.terminate()
+            except:
+                pass
 
             if isinstance(e, subprocess.TimeoutExpired):
                 save_results(args, case, "timeout_exceeded")

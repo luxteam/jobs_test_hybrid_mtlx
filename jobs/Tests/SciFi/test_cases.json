@@ -3,9 +3,9 @@
         "case": "MTLX_SCIFI_001",
         "status": "active",
         "script_info": [
-            "Test material \"Aluminium Hexagon\""
+            "Test material \"Aluminum Hexagon\""
         ],
-        "material_name": "Aluminium_Hexagon"
+        "material_name": "Aluminum_Hexagon"
     },
     {
         "case": "MTLX_SCIFI_002",

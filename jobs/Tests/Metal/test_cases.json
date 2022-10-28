@@ -3,17 +3,17 @@
         "case": "MTLX_METAL_001",
         "status": "active",
         "script_info": [
-            "Test material \"Gold\""
+            "Test material \"Gold Parametric Imperfections\""
         ],
-        "material_name": "Gold"
+        "material_name": "Gold_Parametric_Imperfections"
     },
     {
         "case": "MTLX_METAL_002",
         "status": "active",
         "script_info": [
-            "Test material \"Aluminium\""
+            "Test material \"Aluminum Parametric\""
         ],
-        "material_name": "Aluminium"
+        "material_name": "Aluminum_Parametric"
     },
     {
         "case": "MTLX_METAL_003",
@@ -59,9 +59,9 @@
         "case": "MTLX_METAL_008",
         "status": "active",
         "script_info": [
-            "Test material \"Chrome\""
+            "Test material \"Chrome Parametric\""
         ],
-        "material_name": "Chrome"
+        "material_name": "Chrome_Parametric"
     },
     {
         "case": "MTLX_METAL_009",
