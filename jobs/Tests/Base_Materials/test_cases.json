@@ -1,7 +1,7 @@
 [
     {
         "case": "MTLX_BASE_MATERIALS_001",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 50 percent melanin\""
         ],
@@ -9,7 +9,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_002",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 30 percent melanin\""
         ],
@@ -17,7 +17,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_003",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 20 percent melanin\""
         ],
@@ -25,7 +25,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_004",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 10 percent melanin\""
         ],
@@ -33,7 +33,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_005",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 5 percent melanin\""
         ],
@@ -41,7 +41,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_006",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 2 percent melanin\""
         ],
@@ -49,7 +49,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_007",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 1 percent melanin\""
         ],
@@ -57,7 +57,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_008",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Skin - 0.1 percent melanin\""
         ],

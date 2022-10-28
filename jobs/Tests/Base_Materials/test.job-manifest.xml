@@ -3,7 +3,7 @@
 
     <outpath value="{OutputDir}"/>
 
-    <execute command='python "{ResourcesDir}/simpleRender.py"' timeout="1200">
+    <execute command='python "{ResourcesDir}/simpleRender.py"' timeout="2500">
         <argument>--tool "{Tool}"</argument>
         <argument>--output "{OutputDir}"</argument>
         <argument>--test_group Base_materials</argument>
