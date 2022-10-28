@@ -89,7 +89,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_012",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Dark Glass\""
         ],
@@ -137,7 +137,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_018",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Rubber\""
         ],
@@ -145,7 +145,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_019",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Rough Plastic\""
         ],
@@ -153,7 +153,7 @@
     },
     {
         "case": "MTLX_BASE_MATERIALS_020",
-        "status": "active",
+        "status": "skipped",
         "script_info": [
             "Test material \"Black Plastic\""
         ],
