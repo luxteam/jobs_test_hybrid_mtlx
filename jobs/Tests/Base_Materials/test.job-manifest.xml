@@ -6,8 +6,8 @@
     <execute command='python "{ResourcesDir}/simpleRender.py"' timeout="2500">
         <argument>--tool "{Tool}"</argument>
         <argument>--output "{OutputDir}"</argument>
-        <argument>--test_group Base_materials</argument>
-        <argument>--res_path "{ResPath}"/Cobblestone</argument>
+        <argument>--test_group Base_Materials</argument>
+        <argument>--res_path "{ResPath}"/Base_Materials</argument>
         <argument>--test_cases "{TestCases}"</argument>
         <argument>--update_refs "{UpdateRefs}"</argument>
     </execute>
