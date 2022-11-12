@@ -2,6 +2,7 @@
     "split": true,
     "groups": {
         "Bark": "",
+        "Base_Materials": "",
         "Brick_Wall": "",
         "Cobblestone": "",
         "Concrete": "",
