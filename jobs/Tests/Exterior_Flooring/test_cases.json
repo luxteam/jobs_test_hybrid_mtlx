@@ -1,6 +1,6 @@
 [
     {
-        "case": "MTLX_FLOOR_001",
+        "case": "MTLX_EXTERIOR_FLOORING_001",
         "status": "active",
         "script_info": [
             "Test material \"Stylized Flagstones\""
@@ -8,7 +8,7 @@
         "material_name": "Stylized_Flagstones"
     },
     {
-        "case": "MTLX_FLOOR_002",
+        "case": "MTLX_EXTERIOR_FLOORING_002",
         "status": "active",
         "script_info": [
             "Test material \"TH: Brick Floor\""
@@ -16,7 +16,7 @@
         "material_name": "TH_Brick_Floor"
     },
     {
-        "case": "MTLX_FLOOR_003",
+        "case": "MTLX_EXTERIOR_FLOORING_003",
         "status": "active",
         "script_info": [
             "Test material \"TH: Diagonal Brick Floor\""
@@ -24,7 +24,7 @@
         "material_name": "TH_Diagonal_Brick_Floor"
     },
     {
-        "case": "MTLX_FLOOR_004",
+        "case": "MTLX_EXTERIOR_FLOORING_004",
         "status": "active",
         "script_info": [
             "Test material \"TH: Brick Moss\""
@@ -32,7 +32,7 @@
         "material_name": "TH_Brick_Moss"
     },
     {
-        "case": "MTLX_FLOOR_005",
+        "case": "MTLX_EXTERIOR_FLOORING_005",
         "status": "active",
         "script_info": [
             "Test material \"TH: Gray Floor Bricks\""
@@ -40,7 +40,7 @@
         "material_name": "TH_Gray_Floor_Bricks"
     },
     {
-        "case": "MTLX_FLOOR_006",
+        "case": "MTLX_EXTERIOR_FLOORING_006",
         "status": "active",
         "script_info": [
             "Test material \"TH: Old Floor Klinkers\""
@@ -48,7 +48,7 @@
         "material_name": "TH_Old_Floor_Klinkers"
     },
     {
-        "case": "MTLX_FLOOR_007",
+        "case": "MTLX_EXTERIOR_FLOORING_007",
         "status": "active",
         "script_info": [
             "Test material \"TH: Floor Klinkers\""
@@ -56,7 +56,7 @@
         "material_name": "TH_Floor_Klinkers"
     },
     {
-        "case": "MTLX_FLOOR_008",
+        "case": "MTLX_EXTERIOR_FLOORING_008",
         "status": "active",
         "script_info": [
             "Test material \"TH: Sidewalk Brick Floor\""
@@ -64,7 +64,7 @@
         "material_name": "TH_Sidewalk_Brick_Floor"
     },
     {
-        "case": "MTLX_FLOOR_009",
+        "case": "MTLX_EXTERIOR_FLOORING_009",
         "status": "active",
         "script_info": [
             "Test material \"TH: Aerial Asphalt\""
@@ -72,7 +72,7 @@
         "material_name": "TH_Aerial_Asphalt"
     },
     {
-        "case": "MTLX_FLOOR_010",
+        "case": "MTLX_EXTERIOR_FLOORING_010",
         "status": "active",
         "script_info": [
             "Test material \"TH: Road Asphalt\""
@@ -80,7 +80,7 @@
         "material_name": "TH_Road_Asphalt"
     },
     {
-        "case": "MTLX_FLOOR_011",
+        "case": "MTLX_EXTERIOR_FLOORING_011",
         "status": "active",
         "script_info": [
             "Test material \"TH: Cathedral Floor Tiles\""
@@ -88,7 +88,7 @@
         "material_name": "TH_Cathedral_Floor_Tiles"
     },
     {
-        "case": "MTLX_FLOOR_012",
+        "case": "MTLX_EXTERIOR_FLOORING_012",
         "status": "active",
         "script_info": [
             "Test material \"TH: Yellow Floor Tiles\""
@@ -96,7 +96,7 @@
         "material_name": "TH_Yellow_Floor_Tiles"
     },
     {
-        "case": "MTLX_FLOOR_013",
+        "case": "MTLX_EXTERIOR_FLOORING_013",
         "status": "active",
         "script_info": [
             "Test material \"TH: Floor Tiles\""
@@ -104,7 +104,7 @@
         "material_name": "TH_Floor_Tiles"
     },
     {
-        "case": "MTLX_FLOOR_014",
+        "case": "MTLX_EXTERIOR_FLOORING_014",
         "status": "active",
         "script_info": [
             "Test material \"TH: Large Floor Tiles\""
@@ -112,7 +112,7 @@
         "material_name": "TH_Large_Floor_Tiles"
     },
     {
-        "case": "MTLX_FLOOR_015",
+        "case": "MTLX_EXTERIOR_FLOORING_015",
         "status": "active",
         "script_info": [
             "Test material \"TH: Large Grey Tiles\""
@@ -120,7 +120,7 @@
         "material_name": "TH_Large_Grey_Tiles"
     },
     {
-        "case": "MTLX_FLOOR_016",
+        "case": "MTLX_EXTERIOR_FLOORING_016",
         "status": "active",
         "script_info": [
             "Test material \"TH: Large Square Pattern\""
@@ -128,7 +128,7 @@
         "material_name": "TH_Large_Square_Pattern"
     },
     {
-        "case": "MTLX_FLOOR_017",
+        "case": "MTLX_EXTERIOR_FLOORING_017",
         "status": "active",
         "script_info": [
             "Test material \"TH: Pavement\""
@@ -136,7 +136,7 @@
         "material_name": "TH_Pavement"
     },
     {
-        "case": "MTLX_FLOOR_018",
+        "case": "MTLX_EXTERIOR_FLOORING_018",
         "status": "active",
         "script_info": [
             "Test material \"TH: Square Floor\""
@@ -144,11 +144,11 @@
         "material_name": "TH_Square_Floor"
     },
     {
-        "case": "MTLX_FLOOR_019",
+        "case": "MTLX_EXTERIOR_FLOORING_019",
         "status": "active",
         "script_info": [
-            "Test material \"TH: Square Floor Patern\""
+            "Test material \"TH: Square Floor Pattern\""
         ],
-        "material_name": "TH_Square_Floor_Patern"
+        "material_name": "TH_Square_Floor_Pattern"
     }
 ]
