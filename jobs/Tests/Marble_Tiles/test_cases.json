@@ -147,20 +147,12 @@
         "case": "MTLX_MARBLE_TILES_019",
         "status": "active",
         "script_info": [
-            "Test material \"Tiles Black Long Variative\""
-        ],
-        "material_name": "Tiles_Black_Long_Variative"
-    },
-    {
-        "case": "MTLX_MARBLE_TILES_020",
-        "status": "active",
-        "script_info": [
             "Test material \"TH: Marble Floor Tiles\""
         ],
         "material_name": "TH_Marble_Floor_Tiles"
     },
     {
-        "case": "MTLX_MARBLE_TILES_021",
+        "case": "MTLX_MARBLE_TILES_020",
         "status": "active",
         "script_info": [
             "Test material \"Bardiglio Marble\""
@@ -168,7 +160,7 @@
         "material_name": "Bardiglio_Marble"
     },
     {
-        "case": "MTLX_MARBLE_TILES_022",
+        "case": "MTLX_MARBLE_TILES_021",
         "status": "active",
         "script_info": [
             "Test material \"Picasso Black Marble\""
@@ -176,7 +168,7 @@
         "material_name": "Picasso_Black_Marble"
     },
     {
-        "case": "MTLX_MARBLE_TILES_023",
+        "case": "MTLX_MARBLE_TILES_022",
         "status": "active",
         "script_info": [
             "Test material \"TH: Beige  Marble Tiles\""
@@ -184,7 +176,7 @@
         "material_name": "TH_Beige_Marble_Tiles"
     },
     {
-        "case": "MTLX_MARBLE_TILES_024",
+        "case": "MTLX_MARBLE_TILES_023",
         "status": "active",
         "script_info": [
             "Test material \"Guatemala Blue Marble\""
@@ -192,7 +184,7 @@
         "material_name": "Guatemala_Blue_Marble"
     },
     {
-        "case": "MTLX_MARBLE_TILES_025",
+        "case": "MTLX_MARBLE_TILES_024",
         "status": "active",
         "script_info": [
             "Test material \"Cremo Marble\""

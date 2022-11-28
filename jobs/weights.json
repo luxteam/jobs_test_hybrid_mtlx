@@ -25,12 +25,12 @@
             "value": 26
         },
         {
-            "suite_name": "Floor",
-            "value": 19
+            "suite_name": "Interior_Flooring",
+            "value": 36
         },
         {
-            "suite_name": "Flooring",
-            "value": 53
+            "suite_name": "Exterior_Flooring",
+            "value": 19
         },
         {
             "suite_name": "Ground",
