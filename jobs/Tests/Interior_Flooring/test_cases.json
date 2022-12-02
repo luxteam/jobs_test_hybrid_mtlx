@@ -11,9 +11,9 @@
         "case": "MTLX_INTERIOR_FLOORING_002",
         "status": "active",
         "script_info": [
-            "Test material \"Mazzonetto Dimonds Parquet\""
+            "Test material \"Mazzonetto Diamonds Parquet\""
         ],
-        "material_name": "Mazzonetto_Dimonds_Parquet"
+        "material_name": "Mazzonetto_Diamonds_Parquet"
     },
     {
         "case": "MTLX_INTERIOR_FLOORING_003",
